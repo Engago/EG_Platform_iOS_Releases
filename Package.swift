@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "EGPlatform",
-            url: "https://github.com/Engago/EG_Platform_iOS_Releases/releases/download/1.0.4/EGPlatform.xcframework.zip",
-            checksum: "4325b280dfdfee0c034f5b0ebca75d6fd66b4f657d167593ff0c9102b5cea650"
+            url: "https://github.com/Engago/EG_Platform_iOS_Releases/releases/download/1.0.5/EGPlatform.xcframework.zip",
+            checksum: "34dae1eaf43d12b9bc2bf0502e9ba22025211a6f0fba3b1072dc176b41c60cfd"
         )
     ]
 )
